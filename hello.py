@@ -108,8 +108,11 @@ def main():
     print(f"x squared is {squared(x)}")
 
 main()
-
+"""
+To save changes in GitHub, type the command in the terminal.
 
 git add .
 git commit -m "update hello.py"
 git push
+
+"""
