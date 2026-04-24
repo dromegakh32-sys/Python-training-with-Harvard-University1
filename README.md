@@ -5,9 +5,10 @@
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>  
 
+<h2 align="center">🎬 Watch Demo</h2>
 
-<a href="https://www.youtube.com/shorts/xu4oNzoy-KY">
-  <img src="https://img.youtube.com/vi/xu4oNzoy-KY/maxresdefault.jpg" width="600" style="border-radius:15px;" />
-</a> 
-
-![Preview](demo.gif)
+<p align="center">
+  <a href="https://www.youtube.com/shorts/xu4oNzoy-KY">
+    <img src="https://img.youtube.com/vi/xu4oNzoy-KY/maxresdefault.jpg" width="600">
+  </a>
+</p>
