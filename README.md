@@ -5,4 +5,7 @@
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>  
 
-[![Watch the video](https://img.youtube.com/vi/xu4oNzoy-KY/0.jpg)](https://www.youtube.com/shorts/xu4oNzoy-KY)
+
+<a href="https://www.youtube.com/shorts/xu4oNzoy-KY">
+  <img src="https://img.youtube.com/vi/xu4oNzoy-KY/maxresdefault.jpg" width="600" style="border-radius:15px;" />
+</a>
